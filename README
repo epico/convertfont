@@ -1,0 +1,6 @@
+Convert Legacy Font
+
+
+In harfbuzz, Bitmap fonts and Type 1 fonts are not supported.
+
+This repo maintains the tools to convert the legacy fonts to OpenType font format.
